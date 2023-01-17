@@ -1,0 +1,1 @@
+Acad.Editor.executeCommand("RECTANG","0,0","10,10");
